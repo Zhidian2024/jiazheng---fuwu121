@@ -20,15 +20,16 @@
 
 # 软件截图
 
-![extending-a-theme](/01.png)
-![extending-a-theme](/02.png)
-![extending-a-theme](/05.png)
-![extending-a-theme](/06.png)
-![extending-a-theme](/07.png)
-![extending-a-theme](/08.png)
-![extending-a-theme](/09.png)
-![extending-a-theme](/10.png)
-![extending-a-theme](/11.png)
-![extending-a-theme](/12.png)
-![extending-a-theme](/13.png)
-![extending-a-theme](/xiaomage.jpg)
+![01](https://github.com/user-attachments/assets/0dd0ca61-2e96-4877-8f01-1fa9d2514c36)
+![02](https://github.com/user-attachments/assets/c060784d-9aab-4e43-a295-011141adad43)
+![05](https://github.com/user-attachments/assets/3b233f9b-68fe-40cb-a158-feeb22afa7c7)
+![06](https://github.com/user-attachments/assets/faf66da4-9998-4ee5-be24-37a4343f838d)
+![07](https://github.com/user-attachments/assets/496e6d06-5d71-43b7-9aec-cb14ec9cb6ef)
+![08](https://github.com/user-attachments/assets/0b9536cd-7dc0-4493-8ccd-43dc7a96ceff)
+![09](https://github.com/user-attachments/assets/42d28172-8cf8-4554-892d-9ecd10cd9071)
+![10](https://github.com/user-attachments/assets/45cef4ff-8aad-4b8f-b088-ae30a3ff9745)
+![11](https://github.com/user-attachments/assets/e12aa798-1c6b-473a-b5ab-3dd903054224)
+![12](https://github.com/user-attachments/assets/15189c57-0a7a-4d1a-9e26-013a2ae2009f)
+![13](https://github.com/user-attachments/assets/30c98a64-8dc4-4f4c-ac9e-a3ec9845f26e)
+![xiaomage](https://github.com/user-attachments/assets/0f41c094-bc58-4768-a956-6f887f6735b0)
+
